@@ -1,0 +1,4 @@
+name: ShopWarp
+version: '${project.version}'
+main: com.live.lemonjoey.shopwarp.Main
+api-version: 1.18
